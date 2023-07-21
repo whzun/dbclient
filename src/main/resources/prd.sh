@@ -1,0 +1,1 @@
+./hive.sh -i 10.29.135.89 -P 5000 -x ddwuser -u rpcuser -p rpc@123
